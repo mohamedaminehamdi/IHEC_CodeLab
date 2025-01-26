@@ -62,6 +62,9 @@ This system ensures that students have a reliable, localized, and up-to-date dig
 
 ![Project Diagram](/assets/Diagramme.png)
 
+#Project usecase
+![Project usecase](/assets/usecase.png)
+
 # Project Setup
 
 ## Run Locally
