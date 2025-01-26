@@ -9,7 +9,7 @@ We aim to simplify university life for IHEC Carthage students by addressing thei
 - [@mohamedaminehamdi](https://github.com/mohamedaminehamdi)
 - [@abderrahmen bejaoui](https://github.com/abderbj/abderbj)
 
-![Logo](/assets/logo1.jpg)
+![Logo](/Assets/logo1.jpg)
 
 ## Features
 
@@ -60,10 +60,10 @@ This system ensures that students have a reliable, localized, and up-to-date dig
 
 # Project Diagram
 
-![Project Diagram](/assets/Diagramme.png)
+![Project Diagram](/Assets/Diagramme.png)
 
 #Project usecase
-![Project usecase](/assets/usecase.png)
+![Project usecase](/Assets/usecase.png)
 
 # Project Setup
 
