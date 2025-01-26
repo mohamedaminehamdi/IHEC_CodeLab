@@ -4,3 +4,6 @@
 [submodule "chatbot-frontend"]
 	path = chatbot-frontend
 	url = https://github.com/tarek-gritli/chatbot-frontend.git
+[submodule "CathageBot"]
+	path = CathageBot
+	url = https://github.com/abderbj/chatbot.git
