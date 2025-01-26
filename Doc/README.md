@@ -11,7 +11,7 @@ We aim to simplify university life for IHEC Carthage students by addressing thei
 - [@mohamedaminehamdi](https://github.com/mohamedaminehamdi)
 - [@abderrahmen bejaoui](https://github.com/abderbj/abderbj)
 
-![Logo](images/logo.png)
+![Logo](assets/logo1.jpg)
 
 ## Features
 
@@ -56,6 +56,9 @@ We aim to simplify university life for IHEC Carthage students by addressing thei
      - Updating responses to reflect the most current campus offerings.
 
 This system ensures that students have a reliable, localized, and up-to-date digital assistant, while IHEC administration retains full control to adapt and enhance the experience as needed.
+# Project Diagram
+![Project Diagram](assets/Diagramme.png)
+
 # Project Setup
 
 ## Run Locally
