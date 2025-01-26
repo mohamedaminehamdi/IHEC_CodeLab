@@ -1,3 +1,6 @@
 [submodule "admin-dashboard"]
 	path = admin-dashboard
 	url = https://github.com/mohamedaminehamdi/CarthageBot_Admin_Dashboard.git
+[submodule "chatbot-frontend"]
+	path = chatbot-frontend
+	url = https://github.com/tarek-gritli/chatbot-frontend.git
